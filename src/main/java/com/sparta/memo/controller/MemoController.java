@@ -1,4 +1,4 @@
-package com.sparta.querymethods.controller;
+package com.sparta.memo.controller;
 
 import com.sparta.memo.dto.MemoRequestDto;
 import com.sparta.memo.dto.MemoResponseDto;
